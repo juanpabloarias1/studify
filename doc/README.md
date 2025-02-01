@@ -6,7 +6,6 @@ Studify is an application designed to help students and teachers to organise the
 ![alt text](Studify_logo_.png)
 
 ## Functional
-
 ### Use Cases
 
 Student
